@@ -3,12 +3,13 @@
 	padding: 0;
 	
 }
-.navbar{
 
+.navbar{
 border: none;
 background-color: black;
 color: yellow;
 }
+
 body{
 	background-color: #01121F;
 	color: white;
